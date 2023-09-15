@@ -6,6 +6,6 @@
 	"express":"3.0.6",
 	"crypto":"0.0.3",
 	"jade":"0.28.1",
-	"socket.io":"0.9.13"
+	"socket.io":"^1.4.8"
     }
 }
