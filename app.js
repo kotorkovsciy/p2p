@@ -1,5 +1,4 @@
 var express = require('express')
-  , stylus = require('stylus')
   , crypto = require('crypto')
   , app = express()
   , server = app.listen(8080)
